@@ -1,6 +1,9 @@
 ## Mosotech Helper
 
-This project can automatically fetch quiz and answer the questions at random intervals. 
+This project can automatically fetch the quizzes and answer the questions at random intervals.
+
+## Notice
+Only the quizzes that unlimited time and times of the praticse are available.
 
 ## Usage
 It will create `config.json` at first run `main.py` that contain setting of the project.
